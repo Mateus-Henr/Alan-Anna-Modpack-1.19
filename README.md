@@ -8,7 +8,7 @@ Para resolver problemas de desempenho e compatibilidade, siga os passos abaixo (
 4 - Abra o launcher e clique no ícone de pasta (canto inferior direito). <br>
 5 - Quando a pasta abrir coloque o conteúdo desse da pasta "colocar na .minecraft" dentro da ".minecraft". <br>
 6 - Volte ao launcher e clique no ícone da engrenagem (canto inferior direito), clique em "Configurações" e na parte de "Alocação de memória" coloque uma quantidade para seu PC, se seu PC tiver 4GB de ram coloque 3GB, se tiver 8GB de ram coloque 5GB. <br>
-7 - No launcher vá na parte de escolha de versão do jogo e selecione "Versão fabric-loader-0.14.21-1.19.2" e clique em "Instalar". <br>
+7 - No launcher vá na parte de escolha de versão do jogo e selecione "Versão fabric-loader-x.xx.x-1.20.1" e clique em "Instalar". <br>
 8 - Quando a instalação finalizar clique em "Entrar no jogo". <br>
 
 ## Opcional para melhor desempenho
